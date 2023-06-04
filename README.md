@@ -36,7 +36,7 @@ To clone and use:
     cid = 'client id'
     secret = 'secret key'
     ```
-8) open final_compiled_notebook.ipynb Jupyter Notebook
+8) open app.ipynb Jupyter Notebook
 9) run the file
 10) choose song of interest in code block 31 and run blocks 31, 32, 33 for a prediction if in top 50 or not
 

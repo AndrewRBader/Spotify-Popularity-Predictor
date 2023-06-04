@@ -1,4 +1,4 @@
-# Project 2: Spotify Popularity Predictor
+# Spotify Popularity Predictor App
 
 Code developed by Andrew Bader, Trent Ransom, Halam Kim, and Max Accurso
 
